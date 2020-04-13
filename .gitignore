@@ -1,0 +1,22 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo
+native/build
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+
+# Environment
+.env
+
+.next/
